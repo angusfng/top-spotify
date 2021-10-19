@@ -4,7 +4,7 @@ A web application to view your top Spotify artists and tracks
 
 View the site at: https://topspotify.netlify.app/
 
-![](src/assets/topspotify.png)
+![](topspotify.png)
 
 ## Features
 
